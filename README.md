@@ -9,3 +9,6 @@ Flask,
 Html,Css,JS,
 Machine Learning
 
+**Output:**
+
+![Capture22](https://github.com/ManojManfred/telaverge-communications/assets/83718820/3d45ba48-f2f8-4a1a-8de3-9ea1a84d65ab)
